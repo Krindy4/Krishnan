@@ -5434,7 +5434,7 @@ nav .icon-burger{
 @media (max-width: 520px) and (min-width: 200px){
 
 .t1{
-  display: none;
+  display: grid;
   position: absolute;
   bottom: 115px;
   right: 13px;
