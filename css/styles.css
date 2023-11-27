@@ -4882,7 +4882,7 @@ nav .icon-burger{
   bottom: 115px;
   right: 13px;
   color: white;
-  font-size: 14vw;
+  font-size: 12vw;
 }
 
 
@@ -5439,11 +5439,11 @@ nav .icon-burger{
   bottom: 115px;
   right: 13px;
   color: white;
-  font-size: 16vw;
+  font-size: 15vw;
 }
 
 
-.t11{
+/* .t11{
 
   display: grid;
   position: absolute;
@@ -5465,7 +5465,7 @@ nav .icon-burger{
  font-size: 22vw;
 
 
-}
+} */
 
 
 
