@@ -1008,7 +1008,7 @@ lord-icon:hover{
   line-height: 90px;
   overflow: hidden;
 }
-/* .dynamic-txts li{
+.dynamic-txts li{
   list-style: none;
   color: black;
   font-size: 4.2vw;
@@ -1016,12 +1016,12 @@ lord-icon:hover{
   position: relative;
   top: 0;
   animation: slide 6s steps(4) infinite;
-} */
-@keyframes slide {
+}
+/* @keyframes slide {
   100%{
     top: -360px;
   }
-}
+} */
 .dynamic-txts li span{
   
   margin: 5px 0;
@@ -2707,7 +2707,7 @@ h3.menu-item-title {
   font-weight: 600;
   position: relative;
   top: 0;
-  animation: slide 6s steps(4) infinite;
+  /* animation: slide 6s steps(4) infinite; */
 }
 
 
@@ -3105,7 +3105,7 @@ h3.menu-item-title {
   font-weight: 600;
   position: relative;
   top: 0;
-  animation: slide 6s steps(4) infinite;
+  /* animation: slide 6s steps(4) infinite; */
 }
 
 .count{
@@ -3712,7 +3712,7 @@ nav .icon-burger{
   font-weight: 600;
   position: relative;
   top: 0;
-  animation: slide 6s steps(4) infinite;
+  /* animation: slide 6s steps(4) infinite; */
 }
 
 .count{
@@ -3893,7 +3893,7 @@ nav .icon-burger{
   width: 100%;
   background: transparent;
   border-left: 2px solid transparent;
-  animation: typing 1.5s steps(14) infinite;
+  /* animation: typing 1.5s steps(14) infinite; */
 }
 
 
@@ -4852,7 +4852,7 @@ nav .icon-burger{
   font-weight: bold;
   font-size: 70px;
 }
-.wrapper .dynamic-txts{
+/* .wrapper .dynamic-txts{
   font-family:'Sofia Pro', sans-serif; 
   padding-left: 0;
   font-size: 90px;
@@ -4866,7 +4866,7 @@ nav .icon-burger{
   100%{
     top: -360px;
   }
-}
+} */
 
 .bottom-right {
   position: absolute;
